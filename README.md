@@ -35,14 +35,14 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/fathimathulraifa-np" target="_blank">
+  <a href="https://www.linkedin.com/in/fathimathulraifa-np" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:12px;" />
   </a>
   <a href="mailto:fathimathulraifanp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:12px;" />
   </a>
- 
 </p>
+
 
 ---
 
